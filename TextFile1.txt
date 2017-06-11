@@ -1,2 +1,3 @@
 Hello World1!
 This is the second line added number 2! 
+Linia 3!
